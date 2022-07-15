@@ -49,7 +49,7 @@ Application of Jupyter Lab build a financial database and web application by usi
 
 
 ## License
- The Code is freely made without a license, however, materials used for reserach are licensed.
+ The code is freely made without a license, however, materials used for reserach are licensed.
 ---
 
 
