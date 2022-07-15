@@ -1,6 +1,6 @@
 # UW-finctech-2022
 # Module07-challenge
-This is  apulblic repo for the Module 7 Challenge of the UW Fintech Bootcamp in 2022.
+This is a public repo for the Module 7 Challenge of the UW Fintech Bootcamp in 2022.
 The challenge builds a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
 
@@ -49,7 +49,7 @@ Application of Jupyter Lab build a financial database and web application by usi
 
 
 ## License
- The code is made without a license, howber, the materials used for research are licensed.
+ The Code is freely made without a license, however, materials used for reserach are licensed.
 ---
 
 
