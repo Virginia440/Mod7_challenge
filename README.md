@@ -32,15 +32,13 @@ Install the following libaries.
 
 Application of Jupyter Lab build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 ![](Images/Image1.PNG)
-![](Images/Image2.PNG)
-![](Images/Image3.PNG)
-![](Images/Image4.PNG)
-![](Images/Image5.PNG)
 ![](Images/Image6.PNG)
 ![](Images/Image7.PNG)
 ![](Images/Image8.PNG)
 ![](Images/Image9.PNG)
 ![](Images/Image10.PNG)
+
+
 ****
 
 
